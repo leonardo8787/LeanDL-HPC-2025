@@ -12,3 +12,4 @@ gensim==4.3.2
 tqdm==4.66.1
 huggingface_hub==0.20.3
 matplotlib
+codecarbon
